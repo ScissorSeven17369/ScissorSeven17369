@@ -35,6 +35,11 @@ Designing robust backend infrastructures and modular frontend interfaces. Implem
 
 ## DEVELOPMENT METRICS
 
+### Language Analytics
+<div align="center">
+  <img src="https://metrics.lecoq.io/ScissorSeven17369?template=classic&base=0&languages=1&languages_limit=8&theme=dark" alt="Language Metrics" />
+</div>
+
 ### Contribution Analytics
 <div align="center">
   <img src="https://ghchart.rshah.org/38BDF8/ScissorSeven17369" alt="Contribution Graph" />
@@ -45,9 +50,6 @@ Designing robust backend infrastructures and modular frontend interfaces. Implem
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ScissorSeven17369&theme=shadow-purple" alt="GitHub Streak" />
   </a>
 </div>
-
-### Real-Time Coding Tracking
-> Telemetry and real-time coding metrics are monitored via internal IDE integrations.
 
 ---
 
