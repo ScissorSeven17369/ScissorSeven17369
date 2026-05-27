@@ -39,9 +39,9 @@ Designing robust backend infrastructures and modular frontend interfaces. Implem
 
 ### Programming Languages (Repository Distribution)
 <div align="center">
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@ScissorSeven17369/b95b8d0c-a9e0-4c4f-a4d1-c1f0f0f1f1f1.svg" alt="SevenZone Languages" />
-  </a>
+
+<img src="https://metrics.lecoq.io/ScissorSeven17369?template=classic&base=0&languages=1&languages_limit=8&theme=dark" alt="SevenZone Languages" />
+
 </div>
 
 ### Contribution Analytics
