@@ -1,4 +1,6 @@
-![Banner](/Banner.jpeg)
+<div align="center">
+  <img src="/Banner.jpeg" alt="SevenZone Banner" style="border-radius: 20px; width: 100%; display: block;" />
+</div>
 
 # SEVENZONE
 ### Develop • Automate • Innovate
@@ -35,9 +37,9 @@ Designing robust backend infrastructures and modular frontend interfaces. Implem
 
 ## DEVELOPMENT METRICS
 
-### Programming Languages
+### Programming Languages (Repository Distribution)
 <div align="center">
-  <img src="https://metrics.lecoq.io/ScissorSeven17369?template=classic&base=0&languages=1&languages_limit=8&theme=dark" alt="SevenZone Languages" />
+  <img src="https://metrics.lecoq.io/ScissorSeven17369?template=classic&base=0&languages=1&languages_limit=8&theme=dark" alt="SevenZone Language Distribution" />
 </div>
 
 ### Contribution Analytics
