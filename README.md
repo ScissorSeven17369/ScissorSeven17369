@@ -6,60 +6,54 @@
 > "At SevenZone we keep learning:
 > in code and in life, you level up when you dare to try."
 
-SevenZone is a digital development studio focused on engineering scalable software solutions.
+SevenZone is a digital development studio focused on engineering scalable software architectures and high-performance digital ecosystems.
 
 ---
 
 ## CORE DIVISIONS
 
-### Mobile Applications
-Engineering native and hybrid mobile solutions with a focus on resource optimization and fluid performance.
+### Mobile Architecture
+Engineering native and cross-platform mobile solutions. Emphasizing efficient memory management, multithreading, and seamless RESTful API integration to ensure fluid performance across devices.
 
-### Video Game Development
-Conceptualizing and building interactive environments, engaging mechanics, and high-quality game architectures.
+### Interactive Systems & Game Development
+Architecting complex interactive environments and mechanics using Object-Oriented Programming (OOP) and state machines. Focused on optimal rendering pipelines and commercial-grade game deployments.
 
-### Web Systems
-Developing robust backend and frontend platforms for corporate management, accounting, and institutional e-learning platforms.
-
----
-
-## TECHNOLOGIES
-
-<p align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,python,firebase,html,css,js,php,mysql,git,github,vscode,androidstudio)](https://skillicons.dev)
-
-</p>
+### Enterprise Web Platforms
+Designing robust backend infrastructures and modular frontend interfaces. Implementing MVC design patterns, relational databases, and secure authentication for corporate management and institutional e-learning platforms.
 
 ---
 
-## DEVELOPMENT STATISTICS
+## TECHNOLOGY STACK
 
-<p align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScissorSeven17369&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF)](https://github.com/ScissorSeven17369)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScissorSeven17369&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A855F7&text_color=FFFFFF)](https://github.com/ScissorSeven17369)
-
-</p>
-
-<p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ScissorSeven17369&theme=shadow-purple&hide_border=true&background=0D1117&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8)](https://git.io/streak-stats)
-
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,python,firebase,html,css,js,php,mysql,git,github,vscode,androidstudio" alt="Tech Stack" />
+  </a>
+</div>
 
 ---
 
-## CONNECT WITH SEVENZONE
+## DEVELOPMENT METRICS
 
-<p align="center">
+<div align="center">
+  <img src="https://metrics.lecoq.io/ScissorSeven17369?template=classic&base=0&languages=1&languages_limit=8&theme=dark" alt="SevenZone Language Metrics" />
+</div>
+<br>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ScissorSeven17369&theme=shadow-purple" alt="GitHub Streak" />
+  </a>
+</div>
 
-[![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://scissorseven17369.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/enrique-grijalva-1776113a0/)
-[![Google Play](https://img.shields.io/badge/Google_Play-0D1117?style=for-the-badge&logo=googleplay&logoColor=38BDF8)](https://play.google.com/store/apps/dev?id=9133686876142445585)
-[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=38BDF8)](https://www.youtube.com/@scissorseven1603)
-[![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=38BDF8)](https://www.facebook.com/profile.php?id=61589449919300)
-[![TikTok](https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=38BDF8)](https://www.tiktok.com/@_sevenzone)
+---
 
-</p>
+## INSTITUTIONAL CONTACT
+
+<div align="center">
+  <a href="https://scissorseven17369.github.io/"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/enrique-grijalva-1776113a0/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+  <a href="https://play.google.com/store/apps/dev?id=9133686876142445585"><img src="https://img.shields.io/badge/Google_Play-0D1117?style=for-the-badge&logo=googleplay&logoColor=38BDF8" alt="Google Play" /></a>
+  <a href="https://www.youtube.com/@scissorseven1603"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=38BDF8" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61589449919300"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=38BDF8" alt="Facebook" /></a>
+  <a href="https://www.tiktok.com/@_sevenzone"><img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=38BDF8" alt="TikTok" /></a>
+</div>
