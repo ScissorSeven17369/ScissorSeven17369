@@ -1,4 +1,4 @@
-![Banner](TU_URL_DEL_BANNER_AQUI)
+![Banner](/Banner.jpeg)
 
 # SEVENZONE
 ### Develop • Automate • Innovate
@@ -29,22 +29,26 @@ Developing robust backend and frontend platforms for corporate management, accou
 
 ---
 
-## CONNECT WITH SEVENZONE
+## DEVELOPMENT STATISTICS
 
-[![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://scissorseven17369.github.io/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/enrique-grijalva-1776113a0/)
-
-[![Google Play](https://img.shields.io/badge/Google_Play-0D1117?style=for-the-badge&logo=googleplay&logoColor=38BDF8)](https://play.google.com/store/apps/dev?id=9133686876142445585)
-
-[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=38BDF8)](https://www.youtube.com/@scissorseven1603)
-
-[![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=38BDF8)](https://www.facebook.com/profile.php?id=61589449919300)
-
-[![TikTok](https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=38BDF8)](https://www.tiktok.com/@_sevenzone)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ScissorSeven17369&show_icons=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8&hide_border=true" alt="SevenZone GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScissorSeven17369&layout=compact&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&hide_border=true" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ScissorSeven17369&theme=shadow-purple&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
-## GITHUB STATS
+## CONNECT WITH SEVENZONE
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ScissorSeven17369&theme=shadow-purple)](https://git.io/streak-stats) 
+[![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://scissorseven17369.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/enrique-grijalva-1776113a0/)
+[![Google Play](https://img.shields.io/badge/Google_Play-0D1117?style=for-the-badge&logo=googleplay&logoColor=38BDF8)](https://play.google.com/store/apps/dev?id=9133686876142445585)
+[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=38BDF8)](https://www.youtube.com/@scissorseven1603)
+[![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=38BDF8)](https://www.facebook.com/profile.php?id=61589449919300)
+[![TikTok](https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=38BDF8)](https://www.tiktok.com/@_sevenzone)
