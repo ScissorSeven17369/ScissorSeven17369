@@ -37,13 +37,6 @@ Designing robust backend infrastructures and modular frontend interfaces. Implem
 
 ## DEVELOPMENT METRICS
 
-### Programming Languages (Repository Distribution)
-<div align="center">
-
-<img src="https://metrics.lecoq.io/ScissorSeven17369?template=classic&base=0&languages=1&languages_limit=8&theme=dark" alt="SevenZone Languages" />
-
-</div>
-
 ### Contribution Analytics
 <div align="center">
   <img src="https://ghchart.rshah.org/38BDF8/ScissorSeven17369" alt="Contribution Graph" />
